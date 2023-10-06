@@ -1,0 +1,124 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "autor": "Jon Smith",
+      "date": "02.10.2015",
+      "category": "Bissness",
+      "title": "API stands for Application Programming Interface. In the context of APIs, the word Application refer",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 2,
+      "autor": "Emilia Integer",
+      "date": "07.08.2022",
+      "category": "Entertainment",
+      "title": "Programming API stands for Application APIs Application Interface. In word the refers context of , the.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 3,
+      "autor": "Stephanie Garcia",
+      "date": "31.06.2000",
+      "category": "Technology",
+      "title": "This contract defines how the two communicate with each other using requests and responses.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 4,
+      "autor": "Paul Romero",
+      "date": "19.08.2012",
+      "category": "Business",
+      "title": "Most businesses use more than one API to connect applications and share information. Some end up needing an API management tool to.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 5,
+      "autor": "Stephanie Garcia",
+      "date": "18.09.2001",
+      "category": "General",
+      "title": "Most businesses use more than one API to connect applications and share information. Some end up needing an API management tool to.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 6,
+      "autor": "Jennifer Stephens",
+      "date": "01.01.2019",
+      "category": "Entertainment",
+      "title": "This API class is the most common. Web APIs provide machine-readable data and functionality transfer between web-based.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 7,
+      "autor": "Julia Miles",
+      "date": "03.13.2025",
+      "category": "Technology",
+      "title": "Another example is ORDS database API, which is embedded in Oracle REST Data Services.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 8,
+      "autor": "Robert Simmons",
+      "date": "47.17.2005",
+      "category": "Entertainment",
+      "title": "Availability is only one criterion on which APIs are classified. Let’s look at them from a different angle.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 9,
+      "autor": "Kathleen Houston",
+      "date": "08.73.2004",
+      "category": "Sports",
+      "title": "Commercial API users pay subscription fees or use APIs on a pay-as-you-go basis. A fhfhurfh rfrufhruf hrufhru free trials.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 10,
+      "autor": "Sidney Anderson",
+      "date": "01.5502.9999",
+      "category": "Science",
+      "title": "Open public APIs, as the Open API Definition suggests, are those with all  without restrictive terms and conditions. For  it’s",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 11,
+      "autor": "Mary Jones",
+      "date": "09.03.2028",
+      "category": "Health",
+      "title": "Also known as developer-facing or external, these APIs are available for any third-party developers. A public API program.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 12,
+      "autor": "Randy Watkins",
+      "date": "03.13.2020",
+      "category": "Sports",
+      "title": "These application software interfaces are designed to The server is in charge of backend logic and contractors may use these.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 13,
+      "autor": "Jennifer Stephens",
+      "date": "28.09.2004",
+      "category": "Health",
+      "title": "Here are different types of APIs that can be categorized based on the ways they are available for use and according to their initial design purposes.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 14,
+      "autor": "Kathleen Houston",
+      "date": "09.53.2027",
+      "category": "Science",
+      "title": "Function calls and other parameters are described in the API documentation — a manual for developers that includes.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    },
+    {
+      "id": 15,
+      "autor": "Michael Miller",
+      "date": "08.13.2002",
+      "category": "General",
+      "title": "Technical specification, describing the done in the form of a request for processing and data delivery protocols.",
+      "description": "lorem ipsum dolor sit amet, consectetur adip occum nost raute, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu Lorem ipsum dolor sit ametaliqu Lorem ipsum dolor sit amet, consectetur aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet aliqu Lorem ipsum dolor sit amet adip. Lorem ipsum d Lorem ipsum dolor sit amet aliqu Lorem ips Cum sociis natoque penatibus et just    euismod. Lorem ipsum dolor sit amet al gravida. Lorem ipsum dolor sit am et just euismod. Lorem ipsum d Lore m vulputate velit aliquet. Lorem ipsum dolor sit am et just e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e e  ullipse. Lorem ipsum dolor sit  am e ullipse. Lorem ipsum dolor sit  am e e ullipse. Lorem ipsum dolor sit  am e e"
+    }
+  ]
+}
